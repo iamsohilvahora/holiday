@@ -1,0 +1,504 @@
+@media (max-width:1370px){
+.container, ul.slick-dots{max-width:1230px; width: 100%;}
+.worship h3 {
+    font-size: 26px;
+    line-height: 26px;
+}
+.worship p {
+  font-size: 17px;
+    line-height: 23px;
+}
+.btn{font-size: 22px;}
+.logo {margin: 25px 0 25px -20px;
+}
+.navigation ul li a{line-height: 29px;font-size: 19px;}
+.ministers h2{font-size: 35px; line-height: 35px;}
+.worship p {padding-right: 90px;}
+.caption{max-width: 550px;}
+.caption h2{font-size: 29px;line-height:  29px;padding-bottom:  15px;}
+.caption p, .caption a{font-size: 16px; width: auto;}
+.caption a{ float: right;}
+.ministers{padding-top: 32px;}
+.ministers .item{height: 150px;}
+.ministers .item h3{padding: 0 20px;}
+.ministers .item h3 a{font-size: 24px;line-height: 31px;}
+.event-section .involved {padding: 30px;left: 50px;max-width: 500px;}
+.event-section .involved h2{font-size: 40px;line-height: 40px;}
+.event-section .involved p{font-size: 15px;}
+
+.event-section .widget {
+    max-width: 600px; padding: 63px 30px 37px 0;}
+.tribe-mini-calendar-event .list-date .list-dayname {
+    font-size: 18px;}    
+    .tribe-mini-calendar-event .list-date .list-daynumber { font-size: 33px;line-height: 23px;}
+    .tribe-events-widget-link a:before{font-size: 23px;}
+    .tribe-events-widget-link {padding-top: 30px; margin-top: -4px;}
+.event-section h2.widget-title{font-size: 35px; line-height: 35px;}
+h2.tribe-events-title a,.tribe-mini-calendar-event .list-info {font-size: 15px;line-height: 22px;}
+.contactus h3 { font-size: 27px;}
+.contactus p, .contactus a{color: #fff;font-size: 15px;line-height: 20px;}
+.copyright {font-size: 16px;} 
+.acf-map{max-width: 450px;}  
+.contactus .givenow { font-size: 18px;} 
+.footer-logo {
+    max-width: 350px;}
+footer {padding: 55px 0 70px;}
+
+
+/*inner page*/
+.inner-page {
+    padding-bottom: 40px;
+}
+.banner h2 {font-size: 29px;line-height: 29px;}
+.standard-section {line-height: 25px;padding-right: 15px;}
+.inner-page aside { max-width: 100%;padding-left: 15px;}
+.ourministers h3{min-width: 100%;}
+.ourministers ul li a {font-size: 16px;line-height: 26px;}
+.ourministers h3 {font-size: 23px;}
+.address {padding: 18px 25px 25px;}
+.address h3 {font-size: 20px;line-height: 30px;}
+.address p, .address .map-url, .address .phone{font-size: 15px;line-height: 20px;}
+.address .map-url{margin-bottom: 10px;}
+.address h6 {font-size: 16px;line-height: 23px;}
+.standard-section h4 {
+    font-size: 23px;
+    line-height: 23px;}
+.standard-section p, .standard-section li, .standard-section a {
+    font-size: 15px;
+    line-height: 20px;}
+    .standard-section li:after {top: 6px;height: 5px;width: 5px;}
+
+}
+/*************************/
+@media (max-width:1250px){
+.container, ul.slick-dots{max-width:970px;}
+.btn {font-size: 20px;}
+.worship h3 {font-size: 22px;line-height: 22px;}
+.worship p {padding-right: 27px;}
+.logo {margin: 33px 0 30px -20px;max-width: 300px;}
+.btn.login {min-width: 268px;min-height: 58px;line-height: 58px;}
+.navigation ul li {padding: 12px 14px;}
+.navigation ul li a {line-height: 24px;font-size: 17px;}
+.navigation ul li:after {content: "";height: 28px;}
+.caption{max-width: 450px;padding:  22px;font-size:  13px;line-height:  20px; bottom: 75px;}
+
+.caption h2{font-size: 29px;line-height:  29px;padding-bottom:  10px; margin: 7px 0 12px;}
+.caption p, .caption a{font-size: 14px; width: auto;}
+ul.slick-dots li button{margin: 0 3px;}
+ul.slick-dots li button:after{height: 12px; width: 12px;}
+ul.slick-dots{bottom: 30px;}
+.ministers {padding-top: 20px;padding-bottom: 10px;}
+.ministers h2{font-size: 30px;line-height: 30px;margin: 22px 0 32px;}
+.ministers .item h3 {padding: 0 30px;}
+.ministers .item h3 a {font-size: 20px;line-height: 26px;}
+.event-section .widget {max-width:475px;padding: 45px 25px 30px 0;}
+.event-section h2.widget-title{font-size: 30px;line-height: 30px;}
+.tribe-mini-calendar-event .list-date{width: 80px;}
+.tribe-mini-calendar-event .list-info{width: calc(100% - 80px);}
+.tribe-mini-calendar-event {padding: 10px 0 11px;}
+.tribe-events-widget-link a{height: 58px; width: 180px;}
+.tribe-events-widget-link a:before {font-size: 20px;line-height: 58px;}
+.tribe-events-widget-link {padding-top: 20px;}
+.event-section .involved {padding: 15px;left: 50px;max-width: 400px;}
+.event-section .involved h2 {font-size: 30px;line-height: 30px;padding-bottom: 10px;}
+.event-section .involved p {line-height: 24px;margin:0;}
+/**/
+footer {padding: 45px 0 60px;}
+.contactus h3 {font-size: 24px;line-height: 25px;}
+.contactus p, .contactus a {font-size: 14px;line-height: 23px;}
+.footer-logo {max-width: 250px;margin: 9px 0 15px;}
+.contactus li {display: inline-block;margin: 10px 3px 20px 0;}
+.contactus .social-link {height: 27px;width: 30px;background-size: 180px;}
+.contactus .social-link.mail {background-position: 0 0;}
+.contactus .social-link.fb {background-position: -33px 0;}
+.contactus .social-link.instagram {background-position: -73px 0;}
+.contactus .social-link.twitter {background-position: -112px 0px;}
+.contactus .social-link.youtube {background-position: -151px 0;}
+.contactus .givenow {font-size: 17px;min-height: 40px;line-height: 40px;min-width: 150px;border-radius: 16px;}
+.acf-map {max-width: 350px;height: 210px;}
+.copyright { font-size: 14px;}
+
+/*border css*/
+.ministers:before, .ministers:after, .banner:before, .inner-page:before{height: 10px;}
+/*inner page*/
+.banner{padding-bottom: 10px;}
+.banner h2 {margin: 22px 0;}
+.inner-page {padding-bottom: 30px;}
+.inner-page section {margin: 24px 0 15px;}
+.standard-section { padding-right: 30px;}
+.inner-page aside {padding-left: 0;}
+.standard-section img {margin-bottom: 20px;}
+.standard-section h4 {font-size: 20px;line-height: 20px;}
+.standard-section p {padding-right: 0;}
+hr {margin: 14px 0 14px;}
+.standard-section ul {padding: 15px 0 15px 52px;}
+.ourministers h3 {font-size: 20px; min-height: 58px;line-height: 58px;}
+.ourministers ul {padding: 17px 0 20px;}
+.ourministers ul li {padding: 0 0 0 17px;}
+.ourministers ul li a {font-size: 13px;line-height: 22px;}
+.address h3 {font-size: 14px;line-height: 20px;padding-bottom: 5px;}
+.address h6 {font-size: 13px;line-height: 22px;margin-top: 4px;}
+.address p, .address .map-url, .address .phone {font-size: 13px;line-height: 18px;}
+.address {padding: 15px 15px 15px;}
+.address .map-url {margin-bottom: 5px;}
+}
+
+/*************************/
+@media (max-width:991px){
+body {font-size: 16px; line-height: 23px;}
+.container, ul.slick-dots{max-width:750px;}
+
+.worship h3 {font-size: 17px;line-height: 20px; margin: 18px 0 5px;}
+.worship p {padding-right: 0px; font-size: 13px; line-height:17px;}
+.btn.login {min-width: 200px;min-height: 48px;line-height: 48px;}
+.btn {font-size: 16px;}
+.logo {margin: 33px 0 30px -15px;max-width: 250px;}
+.navigation ul li {padding: 12px 9px;}
+.navigation ul li:after {height: 20px;}
+.navigation ul li a {line-height: 17px; font-size: 13px;}
+.caption{max-width: 400px;padding: 15px;font-size: 13px;l;line-height: 15px;bottom: 43px;}
+.caption h2{font-size: 28px;margin: 5px 0 10px;padding-bottom:  10px;}
+.caption p, .caption a{font-size: 12px; width: auto;}
+ul.slick-dots{bottom: 5px;padding-left:  30px;}
+.ministers h2 {font-size: 28px;line-height: 28px;margin: 15px 0 25px;}
+.ministers .item h3 {padding: 0 74px;}
+.ministers .item h3 a {font-size: 18px;line-height: 21px;}
+.event-section .widget {max-width: 365px;padding: 35px 15px 30px 0;}
+.event-section h2.widget-title {font-size: 25px;line-height: 25px; margin-bottom: 15px;}
+h2.tribe-events-title a, .tribe-mini-calendar-event .list-info {font-size: 13px;line-height: 17px;}
+.tribe-mini-calendar-event .list-date {width: 60px;}
+.tribe-mini-calendar-event .list-info {width: calc(100% - 60px);}
+.tribe-mini-calendar-event {padding: 7px 0 9px;}
+.tribe-mini-calendar-event .list-date .list-dayname {font-size: 15px;}
+.tribe-mini-calendar-event .list-date .list-daynumber {font-size: 24px;line-height: 18px;}
+
+.tribe-events-widget-link a {height: 50px;width: 150px;}
+.tribe-events-widget-link a:before {font-size: 16px;line-height: 50px;}
+
+.event-section .involved {padding: 15px 13px;left: 30px;max-width: 300px;}
+.event-section .involved h2 {font-size: 26px;line-height: 25px;padding-bottom: 4px;}
+.event-section .involved p {font-size: 12px;line-height: 17px;}
+/**/
+footer {padding: 35px 0 35px;}
+.contactus h3 { font-size: 19px; line-height: 19px;}
+.contactus p, .contactus a {font-size: 12px;line-height: 23px;}
+.contactus li {display: inline-block;margin: 8px -2px 12px 0;}
+.footer-logo {max-width: 200px;margin: 6px 0 10px;}
+.copyright {font-size: 12px;margin: 0;}
+.acf-map {max-width: 280px;height: 150px;margin: 0;}
+
+/*inner page*/
+.inner-page {padding-bottom: 15px;}
+.banner h2 {margin: 18px 0;font-size: 24px;line-height: 24px;}
+.standard-section img { margin-bottom: 15px;}
+.standard-section h4 {font-size: 18px;line-height: 18px;margin: 10px 0 6px;}
+.standard-section p, .standard-section li, .standard-section a {font-size: 13px;line-height: 18px;}
+hr {margin: 9px 0;}
+.standard-section ul {padding: 6px 0 13px 27px;}
+.ourministers h3 { font-size: 16px;min-height: 50px;line-height: 50px;}
+.ourministers ul li {padding: 0 0 0 24px;}
+.address {padding: 20px;}
+
+}
+/*************************/
+@media (max-width:767px){
+body{overflow-x:hidden; }
+.container, ul.slick-dots{max-width:100%;}
+/*menu css*/
+.open-menu header{position:relative; z-index: inherit;}
+.open-menu header:after{content:"";top:0;right:0%;height:100%;width:100%;background:rgba(0,0,0,0.6);display:block;position:fixed;z-index: 8;}
+.menu-responsive-outer{padding-right: 0; position: absolute;right: 0; top: 40px; z-index: 9;}
+.banner-section .col-md-4{padding-right: 15px;}
+.banner-section .col-md-8{padding-left: 15px;}
+.mobile-icon {background: #161b34;padding: 0;border-radius: 0;max-width: 110px;height: 39px;right: 15px;top: 0;
+	position: absolute;display:  block;transform: translate(0%,-50%);margin-top: 20px;border-radius: 0 0 15px 15px;line-height:  36px;}
+.mobile-icon:after{content:""; position: absolute; top:0; left: 0; height: 100%; width: 100%; border-radius: 20px; 
+letter-spacing: 0.5px;
+background: -moz-linear-gradient(top, rgba(38,49,107,0) 0%, rgba(38,49,107,1) 100%);
+background: -webkit-linear-gradient(top, rgba(38,49,107,0) 0%,rgba(38,49,107,1) 100%);
+background: linear-gradient(to bottom, rgba(38,49,107,0) 0%,rgba(38,49,107,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0026316b', endColorstr='#26316b',GradientType=0 );
+
+}
+
+.mobile-icon a {
+	width: 110px;
+	height: 39px;
+	text-transform: lowercase;
+	color: #fff;
+	font-size: 14px;
+	display: inline-block;
+	text-transform: lowercase;
+	-webkit-transition: all 0.3s ease-in-out 0s;
+	transition: all 0.3s ease-in-out 0s;
+	margin:  auto;
+	z-index:  1;
+	position: relative;
+	font-family: 'Montserrat';
+	font-weight: bold;
+	text-transform: uppercase;
+	padding-left: 30px;
+	}  
+.mobile-icon a:before {content: "\f0c9";font-family: FontAwesome;font-size: 18px;position:absolute;top: 10px;left: 18px;
+height:  15px;width:  15px;line-height:  18px;}
+.open-menu .mobile-icon a{font-size: 0;max-width: 68px;padding:  0;}
+.open-menu .mobile-icon a:before {content: "\f00d";/* font-size: 13px; */left: 50%;transform: translateX(-50%);top: 4px;}
+.open-menu .mobile-icon {max-width: 68px;position: absolute;top: 0;z-index: 9;right: 0;padding:  0;}
+.open-menu .header-right { right: 0; z-index: 99  }
+
+.side_menu{margin-top: 100px;padding: 42px 16px 73px;}
+.side_menu:after{height: 75px;}
+.header-right {position: fixed;right: -250px;top: 0;height: 100%;width: 250px;-webkit-transition: all 0.3s ease-in-out 0s;transition: all 0.3s ease-in-out 0s;z-index: 19;background: #fff;text-align: left;overflow: auto;padding: 30px 0;margin: 0;overflow-x: hidden;}
+.navigation{display: block;}
+header #primary-menu{float: none;padding: 0;}
+.navigation ul{padding: 0; margin: 0;}
+.navigation ul li{display: block;padding:0;width:  100%;}
+.navigation ul li.menu-item-has-children > a:after {content: "\f107";display: inline-block;margin-left: 5px;font-family: FontAwesome;font-size: 18px;font-weight: bold;position: relative;top: 2px;height:  15px;width:  15px;z-index:  6;}
+.navigation ul li a {/* color: #fff; */padding: 11px 15px;display: block;border-bottom: 1px solid rgba(255,255,255,0.4);display: block;text-align:  left;font-size:  18px;}
+.navigation ul li > a:hover, .navigation ul li.current-menu-ancestor > a, .navigation ul li.current_page_item > a{color: #000; font-weight: bold;}
+.navigation ul li.open > ul.sub-menu, .navigation ul li:hover > ul.sub-menu {box-shadow: none; min-width: 100%;left: 0;margin-top: 0;position: relative;background: transparent;padding: 0;color:#4eabba;}
+ul.sub-menu li a { padding-left:25px; }
+.navigation ul li ul.sub-menu li ul.sub-menu {left: 0 !important;top: 100%;float: left;width: 100%;}
+.site {  -webkit-transition: all 0.3s ease-in-out 0s; transition: all 0.3s ease-in-out 0s; position: relative; left: 0; }
+.open-menu .site { left: -250px; }
+.navigation ul li:after {
+    display:none;   
+}
+/**/
+
+.logo {margin: 38px auto 11px;max-width: 266px;}
+.worship, .worship h3, .worship p {text-align: left;}
+.worship{padding-left: 15px;}
+.worship p {line-height: 25px;}
+.btn.login {float: left;margin: 15px;border-radius: 20px;}
+
+.home-slider { height:  290px;}
+.home-slider .slick-list.draggable {height:  100%;}
+.home-slider .slick-track {height:  100%;}
+.home-slider .slick-initialized .slick-slide {height:  100%;}
+.home-slider .item {height:  100%;}
+.home-slider  .container{padding:0;}
+.home-slider .caption{max-width: 100%; padding: 11px 15px 11px; margin: 0;}
+.caption h2{font-size: 23px; line-height: 23px; text-align: center; margin:5px 0 7px; padding-bottom: 7px;}
+.caption p{font-size: 11px; line-height: 15px; text-align: center; width: 100%;}
+.caption a{font-size: 11px; line-height: 15px; text-align: center; width: 100%;}
+ul.slick-dots {
+    padding-left: 0;
+    display: block;
+    margin: auto;
+    text-align: center;
+}
+.ministers h2 {
+    font-size: 22px;
+    line-height: 22px;
+    margin: 15px 0 25px;
+}
+
+.ministers {padding:28px 15px 50px;}
+.ministers .item:after{display: none;}
+.ministers .item {
+    height: auto; border-bottom: 1px solid #b78c05; padding: 9px 0 5px;
+}
+
+
+.ministers .item h3 {
+    padding: 0;
+    position: relative;
+    height: auto; font-size: 17px; line-height: 35px;
+}
+.ministers .item figure{display: none;}
+.event-section .widget {
+    max-width: 100%;
+    padding: 34px 0 49px;
+}
+.event-section h2.widget-title {
+    font-size: 22px;
+    line-height: 22px;
+    margin-bottom: 28px; padding: 0 15px; text-align: center;
+}
+.tribe-mini-calendar-event {
+    padding: 9px 15px 9px;
+}
+.tribe-mini-calendar-event .list-date .list-dayname {
+    font-size: 18px; padding: 0;
+}
+.tribe-mini-calendar-event .list-date .list-daynumber {
+    font-size: 30px;
+    line-height: 25px;
+}
+h2.tribe-events-title a, .tribe-mini-calendar-event .list-info {
+    font-size: 14px;
+    line-height: 19px;
+}
+h2.tribe-events-title a {
+    white-space: pre-wrap;
+    overflow: visible;
+    width: 100%;
+}
+.tribe-events-widget-link a {
+   margin: auto;
+    display: block;
+    float: none; width: 164px; height: 53px;
+}
+.tribe-events-widget-link a:before {
+    font-size: 18px;
+    line-height: 53px;
+}
+
+.event-section .involved {
+    padding: 22px 15px 11px;
+    left: 0; width: 100%;
+    max-width: 100%; margin-top: 22px;
+}
+
+.event-section .involved h2 {
+    font-size: 23px;
+    line-height: 23px;
+    padding-bottom: 11px; text-align: center;
+}
+.event-section .involved p{text-align: center; font-size: 11px; line-height: 17px;}
+.event-section .involved a{width: 100%;}
+
+footer {
+    text-align: center;
+    padding: 28px 0 24px;
+}
+
+.contactus h3 {
+    font-size: 15px;
+    line-height: 15px; margin-bottom: 2px;
+}
+.contactus p, .contactus a {font-size: 9px;line-height: 13px;}
+.contactus li {
+   margin: 13px 7px 10px 0;
+}
+
+.contactus .social-link {
+    height: 19px;
+    width: 21px;
+    background-size: 132px;
+}
+.contactus .social-link.mail {
+    background-position: 0 0;
+}
+.contactus .social-link.fb {
+    background-position: -25px 0px;
+}
+.contactus .social-link.instagram {
+    background-position: -54px 0;
+}
+.contactus .social-link.twitter {
+    background-position: -83px 0px;
+}
+.contactus .social-link.youtube {
+    background-position: -112px 0;
+}
+.contactus .givenow {
+    font-size: 14px;
+    min-height: 36px;
+    line-height: 36px;
+    border-radius: 13px;
+    float: none;
+    display: flex;
+    justify-content: center;
+    width: 118px;
+    margin: 0 auto 31px;     min-width: 118px;
+
+}
+.acf-map {
+    max-width: 98%;
+    height: 124px;
+    margin: auto;
+    display: block;
+    float: none;
+}
+.footer-logo {
+    max-width: 202px;
+    margin: 35px auto 12px;
+    display: block;
+    float: none;
+}
+.copyright {
+    font-size:9px;
+    margin: 0;
+    color: #fff;
+}
+/*inner page*/
+.banner {padding-bottom: 10px;padding-top: 15px !important;}
+.banner h2 {
+    margin: 4px 0 20px;
+    font-size: 32px;
+    line-height: 32px;
+}
+.inner-page section {
+     margin: 14px 0 40px;
+}
+.standard-section {
+    padding-right: 0; padding-bottom: 30px;
+}
+.standard-section img {
+    margin-bottom: 10px;
+    border-radius: 8px;
+}
+.standard-section h4 {
+    font-size: 20px;
+    line-height: 20px;
+    margin: 10px 0 7px;
+}
+.standard-section p, .standard-section li, .standard-section a {
+    font-size: 14px;
+    line-height: 19px;
+}
+.standard-section ul {
+    padding: 13px 0 13px 53px;
+}
+.standard-section li{line-height: 27px; padding-left: 12px;}
+.standard-section li:after {
+    top: 9px;
+    height: 7px;
+    width: 7px;
+}
+hr {
+    border: none; 
+      margin: 14px 0;
+}
+.ourministers h3 {
+    font-size: 22px;
+    min-height: 50px;
+    line-height: 61px;
+}
+.ourministers ul {
+    padding: 17px 0 32px;
+}
+.ourministers ul li a {
+    font-size: 15px;
+    line-height: 26px;
+}
+.address {
+    padding: 16px 26px 24px;
+}
+.address h3 {
+    font-size: 19px;
+    line-height: 27px; padding-bottom: 8px;
+}
+.address h6 {
+    font-size: 15px;
+    line-height: 22px;
+}
+.address p, .address .map-url, .address .phone {
+    font-size: 15px;
+    line-height: 22px;
+}
+.address .map-url {
+    margin-bottom: 17px;
+}
+}
+
+/*************************/
+@media (max-width:568px){
+.container{max-width:100%;}
+.event-section figure {
+    height: 333px;
+}
+
+}

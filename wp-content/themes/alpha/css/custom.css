@@ -1,0 +1,90 @@
+/** Paginaation */
+/*.pagination {
+  display: flex;
+  justify-content: center;
+   position:relative;
+   font-size:11px; 
+   line-height:13px;
+   clear:both;
+   
+}
+.pagination a {
+   display:block;
+   float:left;
+   margin: 10px 2px 10px 0;
+   padding:6px 9px 5px 9px;
+   text-decoration:none;
+   width:auto;
+   color:#fff; 
+   background: #555; 
+   -webkit-transition: background .15s ease-in-out;
+   -moz-transition: background .15s ease-in-out;
+   -ms-transition: background .15s ease-in-out;
+   -o-transition: background .15s ease-in-out;
+   transition: background .15s ease-in-out;
+}
+.pagination a:hover{
+   color:#fff;
+   background: #6AAC70; 
+}
+.pagination .current{
+   margin: 10px 2px 10px 0;
+   padding:6px 9px 5px 9px;
+   background: #6AAC70; 
+   color:#fff;
+}*/
+
+/*default pagination*/
+ul.page-numbers {
+  list-style: none;
+  margin: 0px;
+  text-align: center;
+}
+
+.page-numbers:after {
+    content: ".";
+    display: block;
+    clear: both;
+    visibility: hidden;
+    line-height: 0;
+    height: 0;
+}
+
+ul.page-numbers li {
+    display: block;
+    float: left;
+    margin: 0 4px 4px 0;
+    text-align: center;
+}
+
+.page-numbers a,
+.page-numbers span {
+    display: block;
+    margin: 5px 5px;
+    padding:9px 9px;
+    height: 34px;
+    font-size: 12px;
+    text-decoration: none;
+    font-weight: 400;
+    cursor: pointer;
+    border: 1px solid #ddd;
+    color:#fff; 
+    background: #555; 
+    -webkit-transition: background .15s ease-in-out;
+    -moz-transition: background .15s ease-in-out;
+    -ms-transition: background .15s ease-in-out;
+    -o-transition: background .15s ease-in-out;
+    transition: background .15s ease-in-out;
+}
+
+.page-numbers a span { padding: 0 }
+
+.page-numbers a:hover,
+.page-numbers.current,
+.page-numbers.current:hover {
+    color:#fff;
+    background: #6AAC70; 
+    text-decoration: none;
+}
+
+.page-numbers:hover { text-decoration: none }
